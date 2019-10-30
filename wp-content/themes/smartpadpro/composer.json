@@ -1,0 +1,19 @@
+{
+    "name": "glacialblade/glacialblade",
+    "description": "Custom Theme Dependencies",
+    "authors": [
+        {
+            "name": "Kevin Cotongco",
+            "email": "cotongcokevin@yahoo.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "mpdf/mpdf": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

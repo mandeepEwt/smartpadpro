@@ -1,0 +1,196 @@
+@media only screen and (max-width: 1800px) 
+{
+	.background-macbook
+	{
+	    background-position: -560px 62px;
+	}
+	.background-monitor
+	{
+	    background-position: -750px 150px;
+	}
+}
+
+@media only screen and (max-width: 1624px) 
+{
+	.background-macbook
+	{
+	    background-position: -600px 62px;
+	}
+	.background-monitor
+	{
+	    background-position: -850px 200px;
+	}
+}
+
+@media only screen and (max-width: 1450px) 
+{
+	.background-macbook
+	{
+	    background-position: -660px 62px;
+	}
+	.background-monitor
+	{
+	    background-position: -950px 200px;
+	}
+}
+
+@media only screen and (max-width: 1350px) 
+{
+	.site-count
+	{
+		.dollar
+		{
+			font-size: 35px;
+		}
+	}
+	.site-count-value
+	{
+		font-size: 50px;
+	}
+	.site-count-label
+	{
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width: 1200px) 
+{
+	.site-count-label
+	{
+		font-size: 13px;
+	}
+	.site-count
+	{
+		.dollar
+		{
+			font-size: 22px;
+		}
+	}
+	.site-count-value
+	{
+		font-size: 37px;
+	}
+}
+
+@media only screen and (max-width: 1199px) 
+{
+	.background-macbook, .background-monitor
+	{
+	    background: none;
+	}
+
+	.devices-images
+	{
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 1199px) and (min-width : 575px)
+{
+	.footer-three-icons
+	{
+		h3
+		{
+			font-size: 17px !important;
+		}
+		span
+		{
+			font-size: 14px !important;
+		}
+	}
+}
+
+@media only screen and (max-width: 1050px) 
+{
+	.slider
+	{
+	    img
+	    {
+	    	width: 95%;
+	    }
+	}
+
+	.sign-up-button
+	{
+		padding: 20px 60px;
+		left: calc(50% - 87px); 
+	}
+}
+
+@media only screen and (max-width: 992px) 
+{
+	.feature-text
+	{
+		ul
+		{
+			width: 100%;
+		}
+	}
+	
+	.site-count-label
+	{
+		font-size: 16px;
+	}
+	.site-count-value
+	{
+		font-size: 60px;
+	}
+	.site-count
+	{
+		.dollar
+		{
+			font-size: 45px;
+		}
+	}
+}
+
+@media only screen and (max-width: 767px) 
+{
+	.bordered-left-content
+	{
+		border-left: none;
+		padding: 0;
+	}
+
+	.sign-up-button
+	{
+		padding: 20px 100px;
+		left: calc(50% - 123px); 
+	}
+
+	.icon-operating-system-wrapper
+	{
+		margin-bottom: -50px;
+	}
+}
+
+@media only screen and (max-width: 680px) 
+{
+	.multi-store-plans-wrapper
+	{
+		margin-top: -200px;
+
+		.multi-store-plans-title
+		{
+			margin-top: 150px;
+		}
+	}
+
+	.devices-images
+	{
+		margin-top: 80px;
+	}
+}
+
+@media only screen and (max-width: 480px) 
+{
+	.multi-store-plans-wrapper
+	{
+		margin-top: -150px;
+
+		.multi-store-plans-title
+		{
+			margin-top: 100px;
+		}
+	}
+}
